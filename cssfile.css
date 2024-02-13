@@ -1,0 +1,23 @@
+body
+{   background-image:url("https://medias.cerveauetpsycho.fr/api/v1/images/view/5b2b7fdc3e45460c12633d1f/wide_1300/image.jpg");
+    background-color: rgb(247, 242, 242);
+    background-size: 100%;
+    color: rgb(24, 23, 23);
+}
+
+h1
+{
+    font-size: 14px;
+}
+
+p
+{
+    margin-left: 4em;
+}
+
+strong
+{
+    border: 3px solid #afa;
+    color: black;
+    background-color: white;
+}
